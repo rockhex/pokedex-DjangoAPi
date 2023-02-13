@@ -2,7 +2,7 @@
  
 Esta es una Pokedex que cree consumiendo la API de Pokeapi. 
 
-# Uso #
+
 Instalación 🔧 
 # Crear entorno virtual: #
     - Una vez dentro de la carpeta Proyecto  , ingresar el comando python -m venv venv
