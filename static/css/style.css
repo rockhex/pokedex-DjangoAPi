@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(50, 121, 59);
+    margin: 0 auto;
+    text-align: center;
+}
